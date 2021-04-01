@@ -174,7 +174,7 @@
         <DCCReference Include="DAO\DAO.Login.pas"/>
         <DCCReference Include="controllers\Controller.Login.pas"/>
         <DCCReference Include="controllers\Controller.Reserva.pas"/>
-        <DCCReference Include="DAO.Reserva.pas"/>
+        <DCCReference Include="DAO\DAO.Reserva.pas"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>

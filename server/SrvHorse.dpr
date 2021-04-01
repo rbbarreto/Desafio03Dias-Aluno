@@ -16,7 +16,7 @@ uses
   DAO.Login in 'DAO\DAO.Login.pas',
   Controller.Login in 'controllers\Controller.Login.pas',
   Controller.Reserva in 'controllers\Controller.Reserva.pas',
-  DAO.Reserva in 'DAO.Reserva.pas';
+  DAO.Reserva in 'DAO\DAO.Reserva.pas';
 
 begin
   IsConsole := False;
